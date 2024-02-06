@@ -1,0 +1,32 @@
+/* AboutUs.module.css */
+
+.aboutContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.textArea {
+  flex: 1;
+  padding: 20px;
+}
+
+.imageArea {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+p{
+  font-size: 13px;
+}
+h2{
+  font-size: 2rem;
+}

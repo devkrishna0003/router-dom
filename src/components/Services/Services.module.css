@@ -1,0 +1,32 @@
+/* Services.module.css */
+
+.services {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.service {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.service img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.service h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.service p {
+  font-size: 16px;
+  text-align: center;
+}
